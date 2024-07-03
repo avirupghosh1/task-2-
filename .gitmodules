@@ -1,3 +1,6 @@
 [submodule "a_better_star"]
 	path = a_better_star
 	url = C:\\Users\\AVIRUP\\Documents\\GitHub\\task-2-\\src\\a_better_star
+[submodule "a_better_st"]
+	path = a_better_st
+	url = https://github.com/WLwind/a_better_star
