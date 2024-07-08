@@ -32,6 +32,7 @@ Turtlebot3 navigation using a custom rrt global planner pluggin.
 - check on the topics and see if the global_planner/rrt-global_planner topic is there(the exact name of the topic would be something similar) now using the 2d nav goal in rviz select a point you will see the global_planner generate a path which is followed by the local DWA planner.
 - ***info***  
   the planner_frequency in move_base launch file is set to 0.0 so only one global_planner path is created for the entire navigation untill new 2d goal is given .
+  - yt video for demo is [here](https://www.youtube.com/watch?v=lp-kyqToegc&ab_channel=AvirupGhosh)
 ## Acknowledgements
 
  - [rrt-global-planner(used for header and cpp files and optimized accordingly)](https://github.com/mech0ctopus/rrt-global-planner)
