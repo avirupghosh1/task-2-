@@ -1,5 +1,5 @@
 
-# task-2
+# Task-2
 
 Turtlebot3 navigation using a custom rrt global planner pluggin.
 
